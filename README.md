@@ -51,7 +51,7 @@ python3 train.py --dir=<DIR> \
                  --transform=<TRANSFORM> \
                  --model=<MODEL> \
                  --epochs=<EPOCHS> \
-                 --lr_init=<LR_INIT> \
+                 --lr=<LR_INIT> \
                  --wd=<WD> \
                  [--use_test]
 ```
@@ -93,7 +93,7 @@ python3 train.py --dir=<DIR> \
                  --transform=<TRANSFORM>
                  --model=<MODEL> \
                  --epochs=<EPOCHS> \
-                 --lr_init=<LR_INIT> \
+                 --lr=<LR_INIT> \
                  --wd=<WD> \
                  --curve=<CURVE>[Bezier|PolyChain] \
                  --num_bends=<N_BENDS> \
@@ -133,7 +133,6 @@ python3 eval_curve.py --dir=<DIR> \
                  --data_path=<PATH> \
                  --transform=<TRANSFORM>
                  --model=<MODEL> \
-                 --lr_init=<LR_INIT> \
                  --wd=<WD> \
                  --curve=<CURVE>[Bezier|PolyChain] \
                  --num_bends=<N_BENDS> \
