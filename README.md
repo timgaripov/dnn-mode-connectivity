@@ -279,6 +279,10 @@ Test accuracy (%) of FGE and ensembling of independently trained networks (*Ind*
  * VGG: [github.com/pytorch/vision/](https://github.com/pytorch/vision/)
  * PreResNet: [github.com/bearpaw/pytorch-classification](https://github.com/bearpaw/pytorch-classification)
  * WideResNet: [github.com/meliketoy/wide-resnet.pytorch](https://github.com/meliketoy/wide-resnet.pytorch)
+ 
+ ## Other Implementations
+ 
+ * [Tensorflow Implementation](https://github.com/constantin-crailsheim/dnn-mode-connectivity-tf) by Constantin von Crailsheim
 
 ## Other Relevant Papers
  
@@ -286,3 +290,5 @@ Test accuracy (%) of FGE and ensembling of independently trained networks (*Ind*
  * [Essentially No Barriers in Neural Network Energy Landscape](https://arxiv.org/abs/1803.00885) by Felix Draxler, Kambis Veschgini, Manfred Salmhofer, Fred A. Hamprecht
  * [Topology and Geometry of Half-Rectified Network Optimization](https://arxiv.org/abs/1611.01540) by C. Daniel Freeman, Joan Bruna
  * [Averaging Weights Leads to Wider Optima and Better Generalization](https://arxiv.org/abs/1803.05407) by Pavel Izmailov, Dmitrii Podoprikhin, Timur Garipov, Dmitry Vetrov, Andrew Gordon Wilson
+ * [Loss Surface Simplexes for Mode Connecting Volumes and Fast Ensembling](https://arxiv.org/abs/2102.13042) by Gregory W. Benton, Wesley J. Maddox, Sanae Lotfi, Andrew Gordon Wilson
+ * [Git Re-Basin: Merging Models modulo Permutation Symmetries](https://arxiv.org/abs/2209.04836) by Samuel K. Ainsworth, Jonathan Hayase, Siddhartha Srinivasa
